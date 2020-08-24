@@ -1,6 +1,6 @@
 # Employee-Hierarchy-SQL
 # This Project makes use of Microsoft SQL Server. It includes an employee table containing 4 columns ( Employee ID, Employee Name, Designation and Manager ID) 
-# Empoyees are to be inserted in the first step.
+# Empoyees are to be inserted in the first step.Please refer the Employee database.csv for reference
 # The project demonstrates the following functionalities:
 # 1. Display Hierarchy of Organization for any given employee or root level
 # 2. Allow to insert an employee at any level
